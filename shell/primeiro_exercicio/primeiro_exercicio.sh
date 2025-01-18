@@ -10,14 +10,11 @@
 ##############################################
 
 
-
-
 ########### MINHA SOLUCAO ######################
 variavel1="Hello World"
 echo "$variavel1"
 echo "$variavel1" > ./amazing_output.txt 
 ################################################
-
 
 
 ########### SOLUCAO PROPOSTA NO EXERCICIO #############
