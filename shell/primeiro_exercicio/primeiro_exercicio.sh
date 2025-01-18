@@ -3,6 +3,7 @@
 ############# EXERCICIO 1 ##########################
 ########### TÓPICO DE VARIÁVEIS ###############
 
+####################  Hellow World #############
 #  Shell Scripting - Hello World
 #  Objectives
 #  Define a variable with the string 'Hello World'
